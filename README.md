@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I’m Milena!
 
-<!--
-**MilenaStepanyan/MilenaStepanyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩🏻‍💻 Web Developer | Passionate about creating dynamic web applications and constantly learning new technologies
 
-Here are some ideas to get you started:
+🌱 Tech Stack: 
+ • Frontend: HTML5, CSS3, JavaScript (ES6+), React, TypeScript
+ • Backend: Node.js, Express
+ • Database: MySQL
+ • Tools & Platforms: Git, Vite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Continuously Improving: Always enhancing my skills through various online resources, courses, and practical projects
+
+📊 Currently Exploring: Advanced TypeScript features and backend development with Node.js
